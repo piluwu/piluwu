@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @piluwu
+- 👀 I’m interested in computer science
+- 🌱 I’m currently taking the Harvard CS50 course
